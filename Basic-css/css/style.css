@@ -1,0 +1,36 @@
+h2{
+    height: 200px;
+    background-image: url('/img/bg1.jpg');
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: yellowgreen;
+}
+h3{
+    color: magenta;
+    text-decoration: underline;
+    text-align: center;
+}
+
+ul li{
+    color: purple;
+    display: inline;
+}
+
+span{
+   border: 1px solid purple;
+   /* height: 100px;
+   width: 50px;
+   margin-top: 50px; */
+   /* display: block;  */
+    /* display: inline-block; */
+    /* display: none; */
+
+
+}
+
+.blog{
+    background-color: aqua;
+    box-shadow: 10px 10px 10px gray;
+    margin-bottom: 50px;
+}
